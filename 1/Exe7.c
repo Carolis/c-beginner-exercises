@@ -1,5 +1,3 @@
-//Atividade 1 - Exe1
-//Carolina Ale 002201701385
 #include <stdio.h>
 
 int main()
